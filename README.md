@@ -1,14 +1,15 @@
-### PROBLEM STATEMENT
+#### PROBLEM STATEMENT
 This study aims at addressing the problem of fixing premium:
 - In the absense of sufficient data (using conventional actuarial formulas)
 - When there is sufficient data (using predictive analytics).
+
 When there is sufficient data, these data are usually:
 - Large and cannot be analysed manually
 - Laying dormant and not being utilized as a result of the gap between
 the insurance data science industry.
 
 
-### PURPOSE OF THE STUDY
+#### PURPOSE OF THE STUDY
 Using predictive analytics to predict premium charges, this study also aims at addressing the problem of data utilization in the insurance industry. 
 With the increase in the amount of data and advances in data analytics, the underwriting process in insurance firms can be automated for faster processing of applications.
 
