@@ -14,6 +14,6 @@ Using predictive analytics to predict premium charges, this study also aims at a
 With the increase in the amount of data and advances in data analytics, the underwriting process in insurance firms can be automated for faster processing of applications.
 
 
-Using MULTIPLE LINEAR REGRESSION model contained in Python's Scikit-Learn Module, for a new policy holder, given a set of input (ie our features/independent variables), insurance charges (i.e our response/dependent variable) is being determined.
+> Using MULTIPLE LINEAR REGRESSION model contained in Python's Scikit-Learn Module, for a new policy holder, given a set of input (ie our features/independent variables), insurance charges (i.e our response/dependent variable) is being determined.
 
 Decisions can be made in a life office on the amount of premium to charge by Predictive Analytics which involves the use of modeling and data analysis techniques on large data sets (of information or gotten from past and existing policy holders) to discover predictive patterns and relationships useful for fixing premium charges.
