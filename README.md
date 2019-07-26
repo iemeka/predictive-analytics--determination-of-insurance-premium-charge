@@ -1,6 +1,7 @@
-## DERTERMINATION OF PREMIUM RATE IN A LIFE OFFICE OF AN INSURANCE COMPANY
-
 ### University of Lagos - Final Year Project.
+
+#### DERTERMINATION OF PREMIUM RATE IN A LIFE OFFICE OF AN INSURANCE COMPANY
+
 
 #### PROBLEM STATEMENT
 This study aims at addressing the problem of fixing premium:
