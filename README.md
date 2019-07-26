@@ -5,7 +5,7 @@ A PROJECT SUBMITED FOR THE AWARD OF THE BACHELOR OF SCIENCE DEGREE (B.Sc) IN ACT
 UNIVERSITY OF LAGOS, NIGERIA.
 
 #### PROBLEM STATEMENT
-This study aims at addressing the problem of fixing premium:
+This study aims at addressing the problem of fixing premium in a life office:
 - In the absense of sufficient data (using conventional actuarial formulas)
 - When there is sufficient data (using predictive analytics).
 
